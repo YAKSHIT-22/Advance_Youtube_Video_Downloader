@@ -11,7 +11,7 @@ def clear():
 
 
 clear()
-x="""\33[31m\n
+x="""
 
  Y   Y  OOO  U   U TTTTTT U   U BBBB  EEEE   V     V III DDD  EEEE  OOO      DDD   OOO  W     W N   N L     OOO  AA  DDD  EEEE RRRR 
   Y Y  O   O U   U   TT   U   U B   B E      V     V  I  D  D E    O   O     D  D O   O W     W NN  N L    O   OA  A D  D E    R   R

@@ -26,7 +26,7 @@ while y <= len(x):
     print(x[:y])
     time.sleep(0)
     y = y+1
-link = input("\33[32m\nEnter the link: ")
+link = input("Enter the link: ")
 yt= YouTube(link)
 print("Title: ", yt.title)
 print("Number of views: ", yt.views)

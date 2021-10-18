@@ -21,6 +21,7 @@ x="""\33[31m\n
 """
 y = 0
 while y <= len(x):
+    os.system('clear')
     os.system('cls')
     print(x[:y])
     time.sleep(0)

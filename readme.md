@@ -7,7 +7,7 @@
 <ul>
 <li>git clone https://github.com/YAKSHIT-22/Advance_Youtube_Video_Downloader</li>
 <li>cd Advance_Youtube_Video_Downloader</li>
-<li>./youtubevideo_downloader.py</li>
+<li>./youtubevideo_downloader.py or python3 youtubevideo_downloader.py</li>
 </ul></h3>
 😀
 <br>
